@@ -31,6 +31,7 @@
       "id": "5cf11bde4de04a919c33ee10f11e399c", // Change ID here to match your own KV instance.
     }
   ],
+  "keep_vars": true,
   /**
    * Environment Variables
    * https://developers.cloudflare.com/workers/wrangler/configuration/#environment-variables
